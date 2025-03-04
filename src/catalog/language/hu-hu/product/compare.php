@@ -10,7 +10,6 @@ $_['text_price']        = 'Ár';
 $_['text_model']        = 'Cikkszám';
 $_['text_manufacturer'] = 'Gyártó';
 $_['text_availability'] = 'Elérhetőség';
-$_['text_instock']      = 'Készleten';
 $_['text_rating']       = 'Értékelés';
 $_['text_reviews']      = '%s értékelés alapján.';
 $_['text_summary']      = 'Összesítés';

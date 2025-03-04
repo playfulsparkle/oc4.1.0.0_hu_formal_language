@@ -63,7 +63,6 @@ $_['button_search']         = 'Keresés';
 $_['button_submit']         = 'Küldés';
 $_['button_guest']          = 'Vendég fizetés';
 $_['button_view']           = 'Megtekintés';
-$_['button_voucher']        = 'Ajándékutalvány beváltása';
 $_['button_upload']         = 'Fájl feltöltése';
 $_['button_reward']         = 'Bónuszpont beváltása';
 $_['button_choose']         = 'Kiválasztás';
@@ -87,7 +86,7 @@ $_['error_upload_size']     = 'Figyelmeztetés: A feltöltött fájl meghaladja 
 $_['error_curl']            = 'cURL: Hibakód (%s): %s';
 $_['error_session']         = 'Figyelmeztetés: A munkamenet lejárt, kérjük küldje be újra az űrlapot!';
 
-/* When doing translations only include the matching language code */
+// When doing translations only include the matching language code
 // Datepicker
 //$_['datepicker']            = 'af';
 //$_['datepicker']            = 'ar-dz';

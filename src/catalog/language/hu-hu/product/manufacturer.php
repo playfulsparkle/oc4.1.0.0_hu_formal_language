@@ -5,7 +5,6 @@ $_['heading_title']    = 'Gyártók';
 // Text
 $_['text_brand']       = 'Gyártók';
 $_['text_index']       = 'Gyártó azonosító:';
-$_['text_error']       = 'A gyártó nem található!';
 $_['text_no_results']  = 'Nincsenek termékek a listázáshoz.';
 $_['text_compare']     = '(%s) termék összehasonlítása';
 $_['text_sort']        = 'Rendezés';

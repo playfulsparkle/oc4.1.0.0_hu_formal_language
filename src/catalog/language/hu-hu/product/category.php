@@ -2,7 +2,6 @@
 // Text
 $_['text_refine']      = 'Részletes keresés';
 $_['text_product']     = 'Termékek';
-$_['text_error']       = 'Kategória nem található!';
 $_['text_no_results']  = 'Nincsenek termékek ebben a kategóriában.';
 $_['text_compare']     = '(%s) termék összehasonlítása';
 $_['text_sort']        = 'Rendezés';
