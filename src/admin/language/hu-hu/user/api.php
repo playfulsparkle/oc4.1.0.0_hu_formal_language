@@ -8,14 +8,14 @@ $_['text_list']            = 'API lista';
 $_['text_add']             = 'Hozzáadás';
 $_['text_edit']            = 'Szerkesztés';
 $_['text_ip']              = 'Az alábbiakban létrehozhat egy IP-k listáját, amelyek hozzáférhetnek az API-hoz. Az Ön aktuális IP címe: %s';
+$_['text_history']         = 'Előzmény';
 
 // Column
 $_['column_username']      = 'Felhasználónév';
 $_['column_status']        = 'Állapot';
-$_['column_token']         = 'Jelszó';
 $_['column_ip']            = 'IP cím';
+$_['column_call']          = 'Meghívás';
 $_['column_date_added']    = 'Hozzáadva';
-$_['column_date_modified'] = 'Módosítva';
 $_['column_action']        = 'Művelet';
 
 // Entry

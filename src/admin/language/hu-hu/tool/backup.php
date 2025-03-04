@@ -4,12 +4,11 @@ $_['heading_title']      = 'Biztonsági mentés és visszaállítás';
 
 // Text
 $_['text_success']       = 'Siker:  A biztonsági mentés és visszaállítás sikeresen módosítva lett!';
-
+$_['text_progress']      = 'Folyamat';
 $_['text_backup']        = 'Adatok biztonsági mentése: %s tábla, %s rekord, %s rekordig';
 $_['text_restore']       = 'Visszaállítás: %s / %s';
 $_['text_option']        = 'Biztonsági mentési lehetőségek';
 $_['text_history']       = 'Biztonsági mentési előzmények';
-$_['text_progress']      = 'Folyamat';
 $_['text_import']        = 'Nagy biztonsági mentési fájlok esetén érdemes az SQL fájlt FTP-n keresztül feltölteni a <strong>~/storage/backup/</strong> könyvtárba.';
 
 // Column

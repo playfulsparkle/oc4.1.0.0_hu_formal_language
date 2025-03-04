@@ -12,9 +12,13 @@ $_['text_password']         = 'Jelszó';
 $_['text_other']            = 'Egyéb';
 $_['text_login']            = 'Bejelentkezési előzmények';
 $_['text_authorize']        = 'Előzmények engedélyezése';
+$_['text_filter']           = 'Szűrő';
 
 // Column
 $_['column_username']       = 'Felhasználónév';
+$_['column_name']           = 'Vásárló név';
+$_['column_email']          = 'E-mail';
+$_['column_user_group']     = 'Felhasználói csoport';
 $_['column_status']         = 'Állapot';
 $_['column_ip']             = 'IP cím';
 $_['column_user_agent']     = 'Böngésző Ügynök';
@@ -31,6 +35,10 @@ $_['entry_lastname']        = 'Vezetéknév';
 $_['entry_email']           = 'E-mail';
 $_['entry_image']           = 'Kép';
 $_['entry_status']          = 'Állapot';
+$_['entry_name']            = 'Vásárló név';
+$_['entry_ip']              = 'IP cím';
+$_['entry_date_from']       = 'Dátumtól';
+$_['entry_date_to']         = 'Dátumig';
 
 // Tab
 $_['tab_authorize']         = 'Engedélyezés';

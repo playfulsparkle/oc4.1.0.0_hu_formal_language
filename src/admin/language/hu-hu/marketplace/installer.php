@@ -7,6 +7,10 @@ $_['text_upload']            = 'Siker: A bővítmény sikeresen feltöltve!';
 $_['text_success']           = 'Siker: A bővítmény sikeresen módosítva lett!';
 $_['text_progress']          = 'Telepítési folyamat';
 $_['text_installed']         = 'Telepített bővítmények';
+$_['text_info']              = 'Bővítmény információk';
+$_['text_install']           = 'Fájlok telepítése: %s a(z) %s-ből %s';
+$_['text_vendor']            = 'Vendor fájlok frissítése';
+$_['text_xml']               = 'OCMOD fájlok telepítése';
 
 // Column
 $_['column_image']           = 'Kép';
@@ -17,6 +21,9 @@ $_['column_action']          = 'Művelet';
 
 // Entry
 $_['entry_progress']         = 'Folyamat';
+$_['entry_name']             = 'Bővítmény neve';
+$_['entry_description']      = 'Leírás';
+$_['entry_code']             = 'Kód';
 
 // Error
 $_['error_permission']       = 'Figyelmeztetés: Nincs jogosultsága a bővítmények módosításához!';

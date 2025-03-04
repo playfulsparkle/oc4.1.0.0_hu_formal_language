@@ -12,7 +12,7 @@ $_['text_report']              = 'Jelentések';
 
 // Column
 $_['column_name']              = 'Letöltés név';
-$_['column_ip']                = 'IP';
+$_['column_ip']                = 'IP cím';
 $_['column_account']           = 'Fiókok';
 $_['column_store']             = 'Áruház';
 $_['column_country']           = 'Ország';

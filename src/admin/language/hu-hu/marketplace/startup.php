@@ -11,5 +11,8 @@ $_['column_code']       = 'Módosítás kód';
 $_['column_sort_order'] = 'Sorrend';
 $_['column_action']     = 'Művelet';
 
+// Entry
+$_['entry_description'] = 'Leírás';
+
 // Error
 $_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a üzembe helyezés végrehajtásához!';
