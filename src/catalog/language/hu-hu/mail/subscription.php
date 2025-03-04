@@ -4,7 +4,6 @@ $_['text_subject']               = '%s - Előfizetés %s';
 $_['text_greeting']              = 'Köszönjük, hogy érdeklődik a %s termék iránt. Az előfizetési kérelmét megkaptuk, és a feldolgozásra kerül, amint a kifizetés megerősítésre kerül.';
 $_['text_link']                  = 'Az előfizetés megtekintéséhez kattintson az alábbi linkre:';
 $_['text_promotion']             = 'Siker: A promóciós funkció sikeresen hozzáadva az előfizetéshez!';
-$_['text_subscription_trial']    = '%s minden %d %s időszakonként %d fizetésig, majd';
 $_['text_subscription_duration'] = '%s minden %d %s időszakonként %d fizetésig';
 $_['text_subscription_cancel']   = '%s minden %d %s időszakonként a lemondásig';
 $_['text_subscription_detail']   = 'Előfizetés részletei';

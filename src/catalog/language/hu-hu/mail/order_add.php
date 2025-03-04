@@ -23,7 +23,6 @@ $_['text_price']                 = 'Ár';
 $_['text_order_total']           = 'Rendelés összesen';
 $_['text_total']                 = 'Összesen';
 $_['text_subscription']          = 'Előfizetés';
-$_['text_subscription_trial']    = '%s minden %d %s időszakonként %d fizetésig, majd';
 $_['text_subscription_duration'] = '%s minden %d %s időszakonként %d fizetésig';
 $_['text_subscription_cancel']   = '%s minden %d %s időszakonként a lemondásig';
 $_['text_day']                   = 'nap';
