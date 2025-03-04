@@ -14,6 +14,8 @@ $_['text_password']         = 'Jelszó';
 $_['text_other']            = 'Egyéb';
 $_['text_balance']          = 'Egyenleg';
 $_['text_address']          = 'Cím';
+$_['text_address_add']      = 'Cím hozzáadása';
+$_['text_address_edit']     = 'Cím szerkesztése';
 $_['text_payment_method']   = 'Fizetési módszerek';
 $_['text_history']          = 'Előzmény';
 $_['text_history_add']      = 'Előzmény hozzáadása';
@@ -22,6 +24,7 @@ $_['text_transaction_add']  = 'Tranzakció hozzáadása';
 $_['text_reward']           = 'Bónuszpontok';
 $_['text_reward_add']       = 'Bónuszpontok hozzáadása';
 $_['text_ip']               = 'IP';
+$_['text_authorize']        = 'Engedélyezési előzmények';
 $_['text_option']           = 'Beállítások';
 $_['text_login']            = 'Bejelentkezés az áruházba';
 $_['text_unlock']           = 'Fiók feloldása';
@@ -45,10 +48,13 @@ $_['column_payment_method'] = 'Fizetési módszer';
 $_['column_image']          = 'Kép';
 $_['column_type']           = 'Típus';
 $_['column_date_expire']    = 'Lejárati dátum';
+$_['column_user_agent']     = 'User Agent';
+$_['column_address']        = 'Cím';
 $_['column_action']         = 'Művelet';
 
 // Entry
 $_['entry_store']           = 'Áruház';
+$_['entry_language']        = 'Nyelv';
 $_['entry_customer_group']  = 'Vásárlói csoport';
 $_['entry_firstname']       = 'Keresztnév';
 $_['entry_lastname']        = 'Vezetéknév';
@@ -57,6 +63,7 @@ $_['entry_telephone']       = 'Telefonszám';
 $_['entry_newsletter']      = 'Hírlevél';
 $_['entry_status']          = 'Állapot';
 $_['entry_safe']            = 'Biztonságos';
+$_['entry_commenter']       = 'Hozzászóló';
 $_['entry_password']        = 'Jelszó';
 $_['entry_confirm']         = 'Jelszó megerősítése';
 $_['entry_company']         = 'Cégnév';
@@ -76,11 +83,15 @@ $_['entry_ip']              = 'IP cím';
 $_['entry_date_from']       = 'Dátumtól';
 $_['entry_date_to']         = 'Dátumig';
 
+// Tab
+$_['tab_authorize']         = 'Engedélyezés';
+
 // Button
 $_['button_order']          = 'Rendelések';
 
 // Help
 $_['help_safe']             = 'Állítsa "igaz"-ra, hogy elkerülje, hogy ezt az ügyfelet az átverés elleni rendszer kiszűrje';
+$_['help_commenter']        = 'Állítsa "igaz"-ra, hogy az ügyfél ne kerüljön az antispam rendszer által kiszűrésre';
 $_['help_points']           = 'A mínuszt használja a pontok eltávolításához';
 
 // Error

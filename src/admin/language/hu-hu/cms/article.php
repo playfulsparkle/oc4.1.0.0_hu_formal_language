@@ -32,6 +32,9 @@ $_['entry_status']            = 'Állapot';
 $_['entry_keyword']           = 'Kulcsszó';
 $_['entry_layout']            = 'Elrendezés felülírása';
 
+// Button
+$_['button_rating']           = 'Termék értékelések szinkronizálása';
+
 // Error
 $_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a cikkek módosításához!';

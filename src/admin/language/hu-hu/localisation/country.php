@@ -26,6 +26,8 @@ $_['entry_status']            = 'Állapot';
 // Error
 $_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága az országok módosításához!';
 $_['error_name']              = 'Az ország név legalább 1, és legfeljebb 128 karakterből álljon!';
+$_['error_iso_code_2']        = 'Az ISO kód 2-nek 2 karakterből kell állnia!';
+$_['error_iso_code_3']        = 'Az ISO kód 3-nak 3 karakterből kell állnia!';
 $_['error_default']           = 'Figyelmeztetés: Ez az ország nem törölhető, mivel jelenleg alapértelmezett áruház országként van beállítva!';
 $_['error_store']             = 'Figyelmeztetés: Ez az ország nem törölhető, mivel jelenleg %s áruházhoz van hozzárendelve!';
 $_['error_address']           = 'Figyelmeztetés: Ez az ország nem törölhető, mivel jelenleg %s címjegyzék bejegyzéshez van hozzárendelve!';

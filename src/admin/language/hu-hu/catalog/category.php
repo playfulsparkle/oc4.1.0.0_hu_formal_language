@@ -7,6 +7,7 @@ $_['text_success']            = 'Siker: A kategória sikeresen módosítva lett!
 $_['text_list']               = 'Kategória lista';
 $_['text_add']                = 'Kategória hozzáadása';
 $_['text_edit']               = 'Kategória szerkesztése';
+$_['text_filter']             = 'Szűrő';
 $_['text_default']            = 'Alapértelmezett';
 $_['text_keyword']            = 'Ne használjon szóközöket, helyettük használjon "-" karaktert, és győződjön meg arról, hogy a SEO URL teljesen egyedi legyen.';
 
@@ -26,8 +27,6 @@ $_['entry_keyword']           = 'Kulcsszó';
 $_['entry_parent']            = 'Szülő';
 $_['entry_filter']            = 'Szűrők';
 $_['entry_image']             = 'Kép';
-$_['entry_top']               = 'Felső';
-$_['entry_column']            = 'Oszlopok';
 $_['entry_sort_order']        = 'Sorrend';
 $_['entry_status']            = 'Állapot';
 $_['entry_layout']            = 'Elrendezés felülírása';
@@ -35,8 +34,6 @@ $_['entry_layout']            = 'Elrendezés felülírása';
 // Help
 $_['help_parent']             = '(automatikus kitöltés)';
 $_['help_filter']             = '(automatikus kitöltés)';
-$_['help_top']                = 'Megjelenítés a felső menüsorban. Csak a legfelső szülő kategóriák esetében működik.';
-$_['help_column']             = 'Az alsó 3 kategória oszlopszáma. Csak a legfelső szülő kategóriák esetében működik.';
 
 // Error
 $_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';

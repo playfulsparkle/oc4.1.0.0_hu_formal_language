@@ -23,13 +23,9 @@ $_['entry_meta_keyword']      = 'Kulcsszavak (Keywords meta tag)';
 $_['entry_meta_description']  = 'Leírás (Description meta tag)';
 $_['entry_store']             = 'Áruházak';
 $_['entry_keyword']           = 'Kulcsszó';
-$_['entry_bottom']            = 'Alul';
 $_['entry_status']            = 'Állapot';
 $_['entry_sort_order']        = 'Sorrend';
 $_['entry_layout']            = 'Elrendezés felülírása';
-
-// Help
-$_['help_bottom']             = 'Megjelenítés az alsó láblécben.';
 
 // Error
 $_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
