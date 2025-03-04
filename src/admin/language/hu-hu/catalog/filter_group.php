@@ -3,22 +3,22 @@
 $_['heading_title']     = 'Szurocsoportok';
 
 // Text
-$_['text_success']      = 'Siker: A szurocsoportok módosítása sikeresen megtörtént!';
+$_['text_success']      = 'Siker: A szurocsoportok mÃ³dosÃ­tÃ¡sa sikeresen megtÃ¶rtÃ©nt!';
 $_['text_list']         = 'Szurocsoport lista';
-$_['text_add']          = 'Szurocsoport hozzáadása';
-$_['text_edit']         = 'Szurocsoport szerkesztése';
+$_['text_add']          = 'Szurocsoport hozzÃ¡adÃ¡sa';
+$_['text_edit']         = 'Szurocsoport szerkesztÃ©se';
 
 // Column
 $_['column_name']       = 'Szurocsoport neve';
-$_['column_sort_order'] = 'Rendezési sorrend';
+$_['column_sort_order'] = 'RendezÃ©si sorrend';
 $_['column_action']     = 'Muvelet';
 
 // Entry
 $_['entry_name']        = 'Szurocsoport neve';
-$_['entry_sort_order']  = 'Rendezési sorrend';
+$_['entry_sort_order']  = 'RendezÃ©si sorrend';
 
 // Error
-$_['error_warning']     = 'Figyelmeztetés: Kérjük, figyelmesen ellenorizze az urlapot a hibák elkerülése érdekében!';
-$_['error_permission']  = 'Figyelmeztetés: Önnek nincs jogosultsága a szurocsoportok módosításához!';
-$_['error_name']        = 'A szurocsoport nevének 1 és 64 karakter között kell lennie!';
-$_['error_filter']      = 'Figyelmeztetés: Ez a szurocsoport nem törölheto, mivel jelenleg %s szurohöz van rendelve!';
+$_['error_warning']     = 'FigyelmeztetÃ©s: KÃ©rjÃ¼k, figyelmesen ellenorizze az urlapot a hibÃ¡k elkerÃ¼lÃ©se Ã©rdekÃ©ben!';
+$_['error_permission']  = 'FigyelmeztetÃ©s: Ã–nnek nincs jogosultsÃ¡ga a szurocsoportok mÃ³dosÃ­tÃ¡sÃ¡hoz!';
+$_['error_name']        = 'A szurocsoport nevÃ©nek 1 Ã©s 64 karakter kÃ¶zÃ¶tt kell lennie!';
+$_['error_filter']      = 'FigyelmeztetÃ©s: Ez a szurocsoport nem tÃ¶rÃ¶lheto, mivel jelenleg %s szurohÃ¶z van rendelve!';

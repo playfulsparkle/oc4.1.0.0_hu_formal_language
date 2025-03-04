@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject'] = 'Biztonság';
-$_['text_code']    = 'Be kell írnia a biztonsági kódot az adminisztrációs biztonsági ellenorzésnél.';
-$_['text_ip']      = 'IP cím:';
-$_['text_regards'] = 'Üdvözlettel';
+$_['text_subject'] = 'BiztonsÃ¡g';
+$_['text_code']    = 'Be kell Ã­rnia a biztonsÃ¡gi kÃ³dot az adminisztrÃ¡ciÃ³s biztonsÃ¡gi ellenorzÃ©snÃ©l.';
+$_['text_ip']      = 'IP cÃ­m:';
+$_['text_regards'] = 'ÃœdvÃ¶zlettel';

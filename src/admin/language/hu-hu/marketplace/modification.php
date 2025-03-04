@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']     = 'Módosítások';
+$_['heading_title']     = 'MÃ³dosÃ­tÃ¡sok';
 
 // Text
-$_['text_success']      = 'Siker: A módosítások sikeresen módosítva lettek!';
-$_['text_refresh']      = 'Amikor engedélyez, letilt vagy töröl egy módosítást, kattintson a frissítés gombra a módosítási gyorsítótár újjáépítéséhez!';
-$_['text_list']         = 'Módosítások listája';
-$_['text_info']         = 'Módosítás információk';
+$_['text_success']      = 'Siker: A mÃ³dosÃ­tÃ¡sok sikeresen mÃ³dosÃ­tva lettek!';
+$_['text_refresh']      = 'Amikor engedÃ©lyez, letilt vagy tÃ¶rÃ¶l egy mÃ³dosÃ­tÃ¡st, kattintson a frissÃ­tÃ©s gombra a mÃ³dosÃ­tÃ¡si gyorsÃ­tÃ³tÃ¡r ÃºjjÃ¡Ã©pÃ­tÃ©sÃ©hez!';
+$_['text_list']         = 'MÃ³dosÃ­tÃ¡sok listÃ¡ja';
+$_['text_info']         = 'MÃ³dosÃ­tÃ¡s informÃ¡ciÃ³k';
 
 // Column
-$_['column_name']       = 'Módosítás neve';
+$_['column_name']       = 'MÃ³dosÃ­tÃ¡s neve';
 $_['column_author']     = 'Szerzo';
-$_['column_version']    = 'Verzió';
-$_['column_status']     = 'Állapot';
-$_['column_date_added'] = 'Hozzáadás dátuma';
+$_['column_version']    = 'VerziÃ³';
+$_['column_status']     = 'Ãllapot';
+$_['column_date_added'] = 'HozzÃ¡adÃ¡s dÃ¡tuma';
 $_['column_action']     = 'Muvelet';
 
 // Entry
-$_['entry_name']        = 'Módosítás neve';
-$_['entry_description'] = 'Leírás';
-$_['entry_code']        = 'Kód';
+$_['entry_name']        = 'MÃ³dosÃ­tÃ¡s neve';
+$_['entry_description'] = 'LeÃ­rÃ¡s';
+$_['entry_code']        = 'KÃ³d';
 $_['entry_xml']         = 'XML';
 
 // Error
-$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a módosítások módosításához!';
+$_['error_permission']  = 'FigyelmeztetÃ©s: Nincs jogosultsÃ¡ga a mÃ³dosÃ­tÃ¡sok mÃ³dosÃ­tÃ¡sÃ¡hoz!';

@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success'] = 'Köszönjük, hogy tájékoztatott bennünket választásáról!';
-$_['text_cookie']  = 'Ez a weboldal sütiket használ. További információkért <a href="%s" class="alert-link modal-link">kattintson ide</a>.';
+$_['text_success']    = 'Köszönjük, hogy tájékoztatott bennünket választásáról!';
+$_['text_cookie']     = 'Ez a weboldal sütiket használ. További információkért <a href="%s" class="alert-link modal-link">kattintson ide</a>.';
 
 // Button
 $_['button_agree']    = 'Igen, elfogadom';

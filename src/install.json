@@ -3,7 +3,7 @@
   "description": "Complete formal Hungarian language pack for OpenCart 4.1.x, covering admin, frontend, extensions, and installation for seamless translation.",
   "code": "ps_hu_formal_language",
   "license": "GPL",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "author": "Playful Sparkle",
   "link": "https://github.com/playfulsparkle/oc4_1_hu_formal_language.git"
 }

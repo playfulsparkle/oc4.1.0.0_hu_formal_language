@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_model']              = 'Cikkszám';
+$_['text_model']                 = 'Cikkszám';
 $_['text_subscription']          = 'Előfizetés';
 $_['text_points']                = 'Bónuszpontok';
 

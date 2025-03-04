@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success']               = 'Siker: Módosította a vásárlói kosarát!';
-$_['text_subscription']          = 'Előfizetés';
+$_['text_success']       = 'Siker: Módosította a vásárlói kosarát!';
+$_['text_subscription']  = 'Előfizetés';
 
 // Error
 $_['error_warning']      = 'Figyelmeztetés: Kérjük, ellenőrizze figyelmesen a kosarat hibákért!';

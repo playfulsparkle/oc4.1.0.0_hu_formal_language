@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']          = 'Siker: A fizetési mód beállítva lett!';
+$_['text_success']           = 'Siker: A fizetési mód beállítva lett!';
 
 // Error
 $_['error_customer']         = 'Figyelmeztetés: Ügyféladatok kötelezőek!';

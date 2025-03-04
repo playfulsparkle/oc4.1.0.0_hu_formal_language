@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Fejlesztői beállítások';
+$_['heading_title']          = 'Fejlesztői beállítások';
 
 // Text
 $_['text_developer_success'] = 'Siker: A fejlesztői beállítás sikeresen módosítva lett!';
@@ -14,15 +14,15 @@ $_['text_cache']             = 'Gyorsítótár';
 $_['text_vendor']            = 'Vendor';
 
 // Column
-$_['column_component'] = 'Komponens';
-$_['column_action']    = 'Művelet';
+$_['column_component']       = 'Komponens';
+$_['column_action']          = 'Művelet';
 
 // Entry
-$_['entry_cache']      = 'Gyorsítótár';
+$_['entry_cache']            = 'Gyorsítótár';
 
 // Button
-$_['button_on']        = 'Be';
-$_['button_off']       = 'Ki';
+$_['button_on']              = 'Be';
+$_['button_off']             = 'Ki';
 
 // Error
-$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a fejlesztői beállítások módosításához!';
+$_['error_permission']       = 'Figyelmeztetés: Nincs jogosultsága a fejlesztői beállítások módosításához!';

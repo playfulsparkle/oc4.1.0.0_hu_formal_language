@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_subject'] = 'Biztonsági kód próbálkozások visszaállítása';
-$_['text_reset']   = 'Valaki több mint 3 alkalommal hibásan adta meg a biztonsági kódot.';
-$_['text_link']    = 'Kattintson az alábbi linkre a fiók biztonsági beállításainak visszaállításához:';
-$_['text_ip']      = 'IP cím:';
-$_['text_regards'] = 'Üdvözlettel';
+$_['text_subject'] = 'BiztonsÃ¡gi kÃ³d prÃ³bÃ¡lkozÃ¡sok visszaÃ¡llÃ­tÃ¡sa';
+$_['text_reset']   = 'Valaki tÃ¶bb mint 3 alkalommal hibÃ¡san adta meg a biztonsÃ¡gi kÃ³dot.';
+$_['text_link']    = 'Kattintson az alÃ¡bbi linkre a fiÃ³k biztonsÃ¡gi beÃ¡llÃ­tÃ¡sainak visszaÃ¡llÃ­tÃ¡sÃ¡hoz:';
+$_['text_ip']      = 'IP cÃ­m:';
+$_['text_regards'] = 'ÃœdvÃ¶zlettel';
