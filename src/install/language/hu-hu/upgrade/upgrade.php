@@ -13,8 +13,8 @@ $_['text_refresh']      = 'Töltse be az admin oldalát, majd nyomja meg kétsze
 $_['text_user']         = 'Menjen az Admin -> Felhasználók -> Felhasználói csoportok menüpontra, és szerkessze a Főadminisztrátor csoportot. Jelölje be az összes négyzetet.';
 $_['text_setting']      = 'Menjen az Admin menübe, és szerkessze a fő Rendszerbeállításokat. Frissítse az összes mezőt, és kattintson a mentés gombra, még akkor is, ha nem történt változás.';
 $_['text_store']        = 'Töltse be az áruház kezdőoldalát, majd nyomja meg kétszer a Ctrl+F5 billentyűkombinációt, hogy a böngésző frissítse a CSS változásokat.';
-$_['text_progress']     = 'A(z) %s javítás alkalmazva (%s az %s-ból)';
-$_['text_success']      = 'Gratulálunk! sikeresen frissítette OpenCart telepítését!';
+$_['text_success']      = 'Gratulálunk! Az OpenCart telepítését sikeresen frissítette!';
+$_['text_patch']        = 'A(z) %s javítás alkalmazva lett (%s a(z) %s-ból).';
 
 // Entry
 $_['entry_admin']       = 'Admin név';

@@ -8,6 +8,7 @@ $_['text_success']     = 'Siker: A kupon összeg sikeresen módosítva lett!';
 $_['text_edit']        = 'Kupon Szerkesztése';
 
 // Entry
+$_['entry_coupon']     = 'Kupón';
 $_['entry_status']     = 'Állapot';
 $_['entry_sort_order'] = 'Sorrend';
 
