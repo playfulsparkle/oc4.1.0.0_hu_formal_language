@@ -25,4 +25,4 @@ $_['error_text']       = 'A vélemény szöveg legalább 25, és legfeljebb 1000
 $_['error_rating']     = 'Kérjük, válasszon egy értékelési szintet!';
 $_['error_login']      = 'A termék véleményezéséhez be kell jelentkeznie!';
 $_['error_purchased']  = 'A vélemény írásához először meg kell vásárolnia ezt a terméket!';
-
+$_['error_status']     = 'A véleményezés le van tiltva!';

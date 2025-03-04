@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_success']           = 'Siker: Az elofizetések sikeresen módosítva lettek!';
+$_['text_success']           = 'Siker: Az elofizetÃ©sek sikeresen mÃ³dosÃ­tva lettek!';
 
 // Error
-$_['error_customer']         = 'Figyelmeztetés: Ügyféladatok kötelezoek!';
-$_['error_payment_address']  = 'Figyelmeztetés: Fizetési cím kötelezo!';
-$_['error_payment_method']   = 'Figyelmeztetés: Fizetési mód kötelezo!';
-$_['error_shipping_address'] = 'Figyelmeztetés: Szállítási cím kötelezo!';
-$_['error_shipping_method']  = 'Figyelmeztetés: Szállítási mód kötelezo!';
-$_['error_product']          = 'Figyelmeztetés: Termékek kötelezoek!';
-$_['error_stock']            = 'Figyelmeztetés: A ***-al jelölt termékek nem állnak rendelkezésre a kívánt mennyiségben vagy nincsenek készleten!';
-$_['error_minimum']          = 'Figyelmeztetés: A(z) %s minimális rendelési mennyisége %s!';
-$_['error_call']             = 'Figyelmeztetés: API hívás nem található!';
+$_['error_customer']         = 'FigyelmeztetÃ©s: ÃœgyfÃ©ladatok kÃ¶telezoek!';
+$_['error_payment_address']  = 'FigyelmeztetÃ©s: FizetÃ©si cÃ­m kÃ¶telezo!';
+$_['error_payment_method']   = 'FigyelmeztetÃ©s: FizetÃ©si mÃ³d kÃ¶telezo!';
+$_['error_shipping_address'] = 'FigyelmeztetÃ©s: SzÃ¡llÃ­tÃ¡si cÃ­m kÃ¶telezo!';
+$_['error_shipping_method']  = 'FigyelmeztetÃ©s: SzÃ¡llÃ­tÃ¡si mÃ³d kÃ¶telezo!';
+$_['error_product']          = 'FigyelmeztetÃ©s: TermÃ©kek kÃ¶telezoek!';
+$_['error_stock']            = 'FigyelmeztetÃ©s: A ***-al jelÃ¶lt termÃ©kek nem Ã¡llnak rendelkezÃ©sre a kÃ­vÃ¡nt mennyisÃ©gben vagy nincsenek kÃ©szleten!';
+$_['error_minimum']          = 'FigyelmeztetÃ©s: A(z) %s minimÃ¡lis rendelÃ©si mennyisÃ©ge %s!';
+$_['error_call']             = 'FigyelmeztetÃ©s: API hÃ­vÃ¡s nem talÃ¡lhatÃ³!';

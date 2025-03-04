@@ -1,2 +1,2 @@
 <?php
-$_['text_related'] = 'Kapcsolódó termékek';
+$_['text_related'] = 'KapcsolÃ³dÃ³ termÃ©kek';
