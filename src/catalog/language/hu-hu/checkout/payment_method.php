@@ -14,6 +14,7 @@ $_['text_comment']           = 'Siker: A kommentár hozzáadva!';
 $_['entry_payment_method']   = 'Válasszon fizetési módot...';
 
 // Error
+$_['error_order']            = 'A rendelés nem található! Kérjük, frissítse az oldalt.';
 $_['error_customer']         = 'Vásárló szükséges!';
 $_['error_payment_address']  = 'Fizetési cím szükséges!';
 $_['error_shipping_address'] = 'Szállítási cím szükséges!';

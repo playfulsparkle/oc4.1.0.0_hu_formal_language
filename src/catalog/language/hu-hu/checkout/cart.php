@@ -8,9 +8,7 @@ $_['text_edit']                  = 'Siker: Módosította a bevásárlókosarat!'
 $_['text_remove']                = 'Siker: Eltávolította a terméket a bevásárlókosárból!';
 $_['text_login']                 = 'Figyelmeztetés: Be kell <a href="%s">jelentkeznie</a> vagy <a href="%s">fiókot kell létrehoznia</a> az árak megtekintéséhez!';
 $_['text_no_results']            = 'A bevásárlókosara üres!';
-$_['text_next']                  = 'Mit szeretne tenni következő lépésként?';
-$_['text_next_choice']           = 'Válassza ki, ha kedvezménykóddal vagy bónuszpontokkal rendelkezik, amelyeket fel szeretne használni, vagy ha szeretné megbecsülni a szállítási költséget.';
-$_['text_points']                = 'Bónuszpontok';
+$_['text_model']                 = 'Cikkszám';
 $_['text_subscription']          = 'Előfizetés';
 $_['text_subscription_trial']    = '%s minden %d %s időszakonként %d fizetésig, majd';
 $_['text_subscription_duration'] = '%s minden %d %s időszakonként %d fizetésig';
@@ -20,11 +18,13 @@ $_['text_week']                  = 'hét';
 $_['text_semi_month']            = 'fél hónap';
 $_['text_month']                 = 'hónap';
 $_['text_year']                  = 'év';
+$_['text_points']                = 'Bónuszpontok';
+$_['text_next']                  = 'Mit szeretne tenni következő lépésként?';
+$_['text_next_choice']           = 'Válassza ki, ha kedvezménykóddal vagy bónuszpontokkal rendelkezik, amelyeket fel szeretne használni, vagy ha szeretné megbecsülni a szállítási költséget.';
 
 // Column
 $_['column_image']               = 'Kép';
 $_['column_name']                = 'Termék név';
-$_['column_model']               = 'Cikkszám';
 $_['column_quantity']            = 'Mennyiség';
 $_['column_price']               = 'Egységár';
 $_['column_total']               = 'Összesen';

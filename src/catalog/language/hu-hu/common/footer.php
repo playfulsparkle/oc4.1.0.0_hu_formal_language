@@ -9,7 +9,6 @@ $_['text_return']       = 'Reklamáció';
 $_['text_sitemap']      = 'Webhelytérkép';
 $_['text_gdpr']         = 'GDPR';
 $_['text_manufacturer'] = 'Gyártók';
-$_['text_voucher']      = 'Ajándékutalványok';
 $_['text_affiliate']    = 'Partnerprogram';
 $_['text_special']      = 'Akciók';
 $_['text_account']      = 'Fiókom';
