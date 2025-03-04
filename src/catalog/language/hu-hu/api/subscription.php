@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_success']           = 'Success: You have modified subscriptions!';
+$_['text_success']           = 'Siker: Az elofizetések sikeresen módosítva lettek!';
 
 // Error
-$_['error_customer']         = 'Warning: Customer details required!';
-$_['error_payment_address']  = 'Warning: Payment address required!';
-$_['error_payment_method']   = 'Warning: Payment method required!';
-$_['error_shipping_address'] = 'Warning: Shipping address required!';
-$_['error_shipping_method']  = 'Warning: Shipping method required!';
-$_['error_product']          = 'Warning: Products required!';
-$_['error_stock']            = 'Warning: Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Warning: Minimum order amount for %s is %s!';
-$_['error_call']             = 'API call not found';
+$_['error_customer']         = 'Figyelmeztetés: Ügyféladatok kötelezoek!';
+$_['error_payment_address']  = 'Figyelmeztetés: Fizetési cím kötelezo!';
+$_['error_payment_method']   = 'Figyelmeztetés: Fizetési mód kötelezo!';
+$_['error_shipping_address'] = 'Figyelmeztetés: Szállítási cím kötelezo!';
+$_['error_shipping_method']  = 'Figyelmeztetés: Szállítási mód kötelezo!';
+$_['error_product']          = 'Figyelmeztetés: Termékek kötelezoek!';
+$_['error_stock']            = 'Figyelmeztetés: A ***-al jelölt termékek nem állnak rendelkezésre a kívánt mennyiségben vagy nincsenek készleten!';
+$_['error_minimum']          = 'Figyelmeztetés: A(z) %s minimális rendelési mennyisége %s!';
+$_['error_call']             = 'Figyelmeztetés: API hívás nem található!';
