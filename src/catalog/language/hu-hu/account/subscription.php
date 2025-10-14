@@ -50,4 +50,3 @@ $_['button_cancel']              = 'Előfizetés lemondása';
 $_['error_subscription']         = 'Az előfizetés nem található!';
 $_['error_duration']             = 'Az előfizetés nem mondható le még %s rendelés erejéig!';
 $_['error_canceled']             = 'Az előfizetés már lemondásra került!';
-

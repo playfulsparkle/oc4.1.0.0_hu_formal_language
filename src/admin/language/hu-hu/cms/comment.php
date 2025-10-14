@@ -21,11 +21,11 @@ $_['entry_article']    = 'Cikk';
 $_['entry_customer']   = 'Vásárló';
 $_['entry_status']     = 'Állapot';
 $_['entry_date_added'] = 'Hozzáadva';
-$_['entry_date_to']    = 'Date To';
+$_['entry_date_to']    = 'Dátumig';
 
 // Button
 $_['button_spam']      = 'Spam';
-$_['button_rating']    = 'Calculate Ratings';
+$_['button_rating']    = 'Értékelések kiszámítása';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a cikk hozzászólás módosításához!';
