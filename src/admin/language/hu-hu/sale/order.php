@@ -51,7 +51,7 @@ $_['text_order_id']              = 'Rendelés azonosító';
 $_['text_website']               = 'Weboldal';
 $_['text_invoice']               = 'Számla';
 $_['text_invoice_no']            = 'Számlaszám';
-$_['text_tbc']                   = 'TBC';
+$_['text_tbc']                   = 'Később kerül pontosításra';
 $_['text_store_address']         = 'Áruház címe';
 $_['text_store_telephone']       = 'Áruház telefonszám';
 $_['text_store_email']           = 'Áruház c-mail';
@@ -117,7 +117,7 @@ $_['entry_date_to']              = 'Dátumig';
 // Help
 $_['help_override']              = 'Ha az ügyfél rendelése blokkolva van az állapot módosításában egy anti-csalás bővítmény miatt, engedélyezze a felülírást.';
 
-// Error       
+// Error
 $_['error_warning']              = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']           = 'Figyelmeztetés: Nincs jogosultsága a rendelés módosításához!';
 $_['error_invoice_no']           = 'Figyelmeztetés: Számla szám már létre lett hozva!';

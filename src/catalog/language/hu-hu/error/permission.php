@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_error'] = 'Nincs jogosultsága az oldal megtekintéséhez.';
+$_['text_error'] = 'Nincs jogosultsÃ¡ga az oldal megtekintÃ©sÃ©hez.';
