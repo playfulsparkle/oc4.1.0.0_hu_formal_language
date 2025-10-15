@@ -13,14 +13,14 @@ $_['text_rating']      = 'Értékelés:';
 
 // Column
 $_['column_comment']   = 'Hozzászólás';
-$_['column_article']   = 'Cikk';
+$_['column_action']    = 'Művelet';
 
 // Entry
 $_['entry_keyword']    = 'Kulcsszó';
 $_['entry_article']    = 'Cikk';
 $_['entry_customer']   = 'Vásárló';
 $_['entry_status']     = 'Állapot';
-$_['entry_date_added'] = 'Hozzáadva';
+$_['entry_date_from']  = 'Dátumtól';
 $_['entry_date_to']    = 'Dátumig';
 
 // Button

@@ -4,6 +4,7 @@ $_['heading_title']           = 'Cikkek';
 
 // Text
 $_['text_success']            = 'Siker: A cikk sikeresen módosítva lett!';
+$_['text_next']               = 'Siker: A(z) %s értéke %s értékre módosításra került %s cikkértékelés esetében!';
 $_['text_list']               = 'Cikk lista';
 $_['text_add']                = 'Cikk hozzáadása';
 $_['text_edit']               = 'Cikk szerkesztése';
@@ -13,6 +14,7 @@ $_['text_keyword']            = 'Ne használjon szóközöket, helyettük haszn�
 // Column
 $_['column_name']             = 'Cím';
 $_['column_author']           = 'Szerző';
+$_['column_rating']           = 'Értékelés';
 $_['column_date_added']       = 'Hozzáadva';
 $_['column_action']           = 'Művelet';
 

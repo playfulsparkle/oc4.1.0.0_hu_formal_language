@@ -5,6 +5,7 @@ $_['heading_title']     = 'Üzembe helyezés';
 // Text
 $_['text_success']      = 'Siker: Az üzembe helyezés sikeresen módosítva lett!';
 $_['text_list']         = 'Üzembe helyezés lista';
+$_['text_info']         = 'Üzembehelyezési információk';
 
 // Column
 $_['column_code']       = 'Módosítás kód';
